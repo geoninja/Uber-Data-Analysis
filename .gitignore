@@ -93,6 +93,7 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data file (too large)
+# Data files
 Data/uber_nyc_data.csv
+Data/icons/
 
