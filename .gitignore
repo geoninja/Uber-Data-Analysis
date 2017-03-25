@@ -95,4 +95,5 @@ ENV/
 
 # Data file (too large)
 Data/uber_nyc_data.csv
+Data/icons/*.png
 
