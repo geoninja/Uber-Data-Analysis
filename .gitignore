@@ -95,5 +95,5 @@ ENV/
 
 # Data files
 Data/uber_nyc_data.csv
-Data/icons/
+Data/icons/*
 
