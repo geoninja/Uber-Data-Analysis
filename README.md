@@ -12,7 +12,7 @@ Early in 2017, the NYC Taxi and Limousine Commission [(TLC)](http://www.nyc.gov/
 
 
 ## **Publication**
-The analysis and visualizations produced in the Jupyter Notebook provide support for the story to be presented in the project's page (refer to link when available).
+The analysis and visualizations produced in the Jupyter Notebook provide support for the story to be presented in the project's [page](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/).
 
 
 
